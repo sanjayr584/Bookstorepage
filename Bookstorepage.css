@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-image1 {
+    background-color: #1b1b1b;
+    height: 110vh;
+    background-size: cover;
+    text-align:center;
+}
+
+.main-heading {
+    color: white;
+    font-size: 24px;
+    font-weight: 100;
+    padding: 5px;
+    margin: 5px;
+    font-family: "Bree Serif";
+}
+
+.container1 {
+    height: 35vh;
+    width: 60vw;
+    padding: 5px;
+    margin: 5px;
+    background-color: #e6f6ff;
+    border-radius: 5px;
+}
+
+.img1 {
+    height: 180px;
+    width: 120px;
+
+}
+
+.t1 {
+    font-family: "Bree Serif";
+    font-weight: 100;
+    font-size: 15px;
+    color: #183b56;
+}
+
+.t2 {
+    font-family: "Bree Serif";
+    font-weight: 100;
+    font-size: 15px;
+    color: white;
+}
+
+.p1 {
+    font-family: "Bree Serif";
+    font-weight: 100;
+    font-size: 15px;
+    color: #06070d;
+}
+
+.p2 {
+    font-family: "Bree Serif";
+    font-weight: 100;
+    font-size: 15px;
+    color: #9aa5b1;
+}
+
+.text-container {
+    padding: 5px;
+    margin: 5px;
+}
+
+.img2 {
+    height: 120px;
+    width: 69px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.img3 {
+    height: 45vh;
+    width: 30vw;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
